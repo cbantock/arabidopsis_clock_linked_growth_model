@@ -1,4 +1,4 @@
-# Modeling the effects of circadian clock regulation of ELF3 and COP1 expression on hypocotyl elongation in *Arabidopsis thaliana
+# Modeling the effects of circadian clock regulation of ELF3 and COP1 expression on hypocotyl elongation in *Arabidopsis thaliana*
 
 Circadian rhythms are endogenous physiological processes that mirror diurnal environmental
 periodicity and persist in the absence of environmental cues (McClung 2006). These rhythmic
